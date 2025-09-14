@@ -1,0 +1,3 @@
+[submodule "submodule"]
+	url = git@github.com:playerminecraft690-dev/PoC-Submodule.git
+	path = "submodule"
